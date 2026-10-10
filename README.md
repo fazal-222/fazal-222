@@ -1,6 +1,8 @@
-### Hi, I'm Fazal-222
-I'm currently learning: Git 
-How to reach me: github.com/
-Fun fact: This is my special
-#### My Skills
+Hi, I'm Fazal-222
+
+Learning: Git and GitHub
+Profile; github.com
+This is my special repo!
+
+My Skills
 
